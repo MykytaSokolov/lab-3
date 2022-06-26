@@ -1,2 +1,7 @@
-# lab-3
-lab 3
+
+# Java-Lab3
+
+Condition: 
+
+Realize all methods, which was declared in Lab2
+
